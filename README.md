@@ -68,7 +68,8 @@ This Ultrasonic Sensor project uses echolocation—like a bat—to measure dista
 
 Here’s what the setup looks like on a breadboard:
 
-![Ultrasonic Sensor Circuit](./Screenshot%202025-07-29%20at%202.29.19%E2%80%AFPM.png)
+<img width="1440" height="715" alt="Ultrasonic Sensor 4-pin" src="https://github.com/user-attachments/assets/1b60ddc4-0d02-455d-8ec8-fecde119762f" />
+
 
 ---
 
