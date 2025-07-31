@@ -70,9 +70,3 @@ Suggested:
 ## 🙌 Credits
 
 **Created by:** Zahara BG  
-Project inspired by how bats use echolocation to navigate.  
-Thanks to the Arduino and maker community for helpful examples and libraries.
-
----
-
-> *Want to go further? Try adding an LCD display to show distance readings, or program custom sound effects using the piezo.*
